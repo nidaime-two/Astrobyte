@@ -48,14 +48,6 @@ Quer ajudar a tornar o **Astrobyte** ainda mais incrível? Aceitamos contribuiç
 
 ---
 
-## 📣 **Entre em Contato**  
-
-Para dúvidas, sugestões ou apenas dizer "Oi 👋", entre em contato:  
-📧 Email: **[seu-email@example.com](mailto:seu-email@example.com)**  
-🌌 Repositório: [Astrobyte no GitHub](https://github.com/nidaime-two/Astrobyte)  
-
----
-
 ## 🌟 **Apoie o Projeto**  
 
 Se você gostou do **Astrobyte**, deixe uma ⭐ no repositório e compartilhe com seus amigos!  
